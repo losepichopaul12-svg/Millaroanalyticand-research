@@ -1,0 +1,83 @@
+.home-hero {
+  background-color: #0f172a;
+  color: #ffffff;
+  padding-top: 3.5rem;
+  padding-bottom: 5rem;
+}
+
+.hero-location-badge {
+  background-color: rgba(217, 119, 6, 0.2);
+  color: #fbbf24;
+  border: 1px solid rgba(217, 119, 6, 0.45);
+}
+
+.hero-lead {
+  font-size: 1.1rem;
+  max-width: 640px;
+}
+
+.hero-btn-primary {
+  background-color: #d97706;
+  color: #0f172a;
+  font-weight: 600;
+  border: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.hero-btn-primary:hover {
+  background-color: #b45309;
+  color: #ffffff;
+}
+
+.hero-btn-secondary {
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  color: #ffffff;
+  font-weight: 500;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.hero-btn-secondary:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: #ffffff;
+  color: #ffffff;
+}
+
+.metrics-strip {
+  margin-top: -2rem;
+}
+
+.home-card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.home-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.5rem 1.25rem rgba(15, 23, 42, 0.08);
+}
+
+.metric-value {
+  color: #d97706;
+}
+
+.home-eyebrow {
+  color: #d97706;
+}
+
+.home-heading {
+  color: #0f172a;
+}
+
+.home-copy {
+  color: #475569;
+}
+
+.highlight-icon-box {
+  background-color: #fef3c7;
+  color: #d97706;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 0.65rem;
+}

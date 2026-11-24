@@ -1,0 +1,59 @@
+.services-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.services-intro {
+  max-width: 600px;
+}
+
+.service-card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+}
+
+.service-tag {
+  background-color: #fef3c7;
+  color: #d97706;
+  font-weight: 700;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.eyebrow-label {
+  color: #d97706;
+}
+
+.heading-dark {
+  color: #0f172a;
+}
+
+.copy-muted {
+  color: #475569;
+}
+
+.check-mark {
+  color: #d97706;
+  font-weight: 700;
+}
+
+.cta-banner {
+  background-color: #0f172a;
+  color: #ffffff;
+  border-radius: 1rem;
+}
+
+.cta-btn {
+  background-color: #d97706;
+  color: #0f172a;
+  font-weight: 600;
+  border: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.cta-btn:hover {
+  background-color: #b45309;
+  color: #ffffff;
+}

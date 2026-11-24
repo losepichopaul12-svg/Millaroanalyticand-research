@@ -1,0 +1,43 @@
+.about-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.about-card {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+}
+
+.mission-box {
+  border-left: 4px solid #d97706;
+}
+
+.vision-box {
+  border-left: 4px solid #0f172a;
+}
+
+.vision-badge {
+  background-color: #0f172a;
+  color: #ffffff;
+}
+
+.value-icon-box {
+  width: 48px;
+  height: 48px;
+  background-color: #fef3c7;
+  color: #d97706;
+  font-size: 1.35rem;
+}
+
+.eyebrow-text {
+  color: #d97706;
+}
+
+.title-dark {
+  color: #0f172a;
+}
+
+.body-copy {
+  color: #475569;
+}
