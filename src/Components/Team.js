@@ -4,36 +4,36 @@ import "./Team.css";
 function Team() {
   const members = [
     {
-      name: "Ekalale Lokorio",
+      name: "Dimphine Epetet",
       role: "Lead Data Analyst",
       bio: "Specializes in statistical modeling and socio-economic surveys across Northern Kenya. Brings 7+ years turning field datasets into policy insights.",
       image:
         "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=500&q=80",
-      initials: "EL",
+      initials: "DE",
     },
     {
-      name: "Amina Nakuru",
+      name: "Boaz Ibuya",
       role: "Field Operations Coordinator",
       bio: "Manages trained enumerator teams across all 7 Turkana sub-counties. Expert in mobile data collection logistics and community engagement.",
       image:
         "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=500&q=80",
-      initials: "AN",
+      initials: "BI",
     },
     {
-      name: "David Lopeyok",
+      name: "Loreng Gerald",
       role: "M&E Specialist",
       bio: "Designs baseline, midline, and endline evaluation frameworks for humanitarian NGOs, county programs, and livelihood initiatives.",
       image:
         "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=500&q=80",
-      initials: "DL",
+      initials: "LG",
     },
     {
-      name: "Grace Akiru",
+      name: "Dr.Eriong`oa Kanyamann,PHD",
       role: "ICT & Systems Lead",
       bio: "Builds digital KoboToolbox/ODK questionnaires, automated validation checks, and interactive visual dashboards for partner organizations.",
       image:
         "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=500&q=80",
-      initials: "GA",
+      initials: "EK",
     },
   ];
 

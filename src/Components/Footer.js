@@ -76,11 +76,11 @@ function Footer() {
             <ul className="list-unstyled vstack gap-2 small text-light opacity-75 mb-3">
               <li>
                 <i className="bi bi-envelope me-2"></i>
-                info@milaroresearch.co.ke
+                Millaro.arc@gmail.com
               </li>
               <li>
                 <i className="bi bi-telephone me-2"></i>
-                +254 712 480 910
+                +254 740--757340
               </li>
             </ul>
             <div className="d-flex flex-wrap gap-2">
@@ -136,7 +136,7 @@ function Footer() {
         </div>
 
         <div className="pt-3 text-center small text-light opacity-50">
-          &copy; {new Date().getFullYear()} Milaro Data Research • Lodwar, Turkana County, Kenya. All rights reserved.
+          &copy; {new Date().getFullYear()} Millaro Analytic,Research &Consultancy• Lodwar, Turkana County, Kenya. All rights reserved.
         </div>
       </div>
     </footer>
